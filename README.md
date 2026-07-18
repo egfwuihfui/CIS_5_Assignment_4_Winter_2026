@@ -45,3 +45,9 @@ High performers (>=80): 6
 ## Submission
 - File: `main.cpp`
 - Upload to Canvas + GitHub repo
+
+
+##**Description**
+Manages 10 hardcoded employee performance scores using pass by value, pass by pointer, and pass by reference across five functions (sum, average, bonus, minimum, and high-performer count).
+
+##**Video**
